@@ -1,0 +1,22 @@
+name: Ayush
+age: 24
+address: "Vizag"
+active: true
+key: 
+    key: 22
+    key2: "hi"
+    key3: 
+        key: value
+array: 
+    - item1
+    - item2
+    - {key: value}
+jsonArray: [item1,item2]
+objectsArray:
+    - key: name1
+      key2: name2
+    - key3: name3
+      key4: name4
+longText: |
+    ehfiehfiwehfiohweif wejghwehfwioef 
+    wehfwiehfiwe wefhwioefhwoif
