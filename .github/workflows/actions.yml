@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: Simple JS actiom
         id: greet
-        uses: actions/hello-world-javascript-action@master
+        uses: actions/hello-world-javascript-action@main
         with:
           who-to-greet: Ayush
       - name: Log greeting time
